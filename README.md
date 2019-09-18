@@ -1,2 +1,2 @@
 # test
-To test
+This repository is created for testing purpose only.
